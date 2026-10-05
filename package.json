@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-friend-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.32.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "dotenv": "^16.4.7"
+  }
+}
